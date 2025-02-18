@@ -34,7 +34,7 @@ include "koneksi.php";
                                 Dashboard
                             </a>
                             <div class="sb-sidenav-menu-heading">Navigasi</div>
-                            <a class="nav-link" href="?page=kategori">
+                            <a class="nav-link" href="?page=categories">
                                 <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
                                 Kategori
                             </a>
@@ -75,7 +75,7 @@ include "koneksi.php";
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; Perpustakaan Digital 2025</div>
+                            <div class="text-muted">Copyright &copy; To Do List 2025</div>
                         </div>
                     </div>
                 </footer>
