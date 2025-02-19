@@ -28,10 +28,10 @@
                         <div class="col-md-8">
                             <select name="id_kategori" class="form-control">
                                 <?php
-                                $kat = mysqli_query($koneksi, "SELECT*FROM kategori");
+                                $kat = mysqli_query($koneksi, "SELECT*FROM categories");
                                 while($kategori = mysqli_fetch_array($kat)){
                                     ?>
-                                    <option value="<?php echo $kategori['id_kategori']; ?>"><?php echo $kategori['kategori']; ?></option>
+                                    <option value="<?php echo $kategori['category']; ?>"><?php echo $kategori['category']; ?></option>
                                     <?php
                                 }
                                 ?>
