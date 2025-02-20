@@ -4,8 +4,8 @@
                <table class="table table-bordered">
                 <tr>
                     <th>Nama</th>
-                    <th>Alamat</th>
-                    <th>No Telepon</th>
+                    <th>id</th>
+                    <th>Halaman</th>
                     <th>Aksi</th>
                 </tr>
 

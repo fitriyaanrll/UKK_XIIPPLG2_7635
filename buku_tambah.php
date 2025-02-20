@@ -43,16 +43,12 @@
                         <div class="col-md-8"><input type="text" class="form-control" name="judul"></div>
                     </div>
                     <div class="row mb-3">
-                        <div class="col-md-2">Penulis</div>
+                        <div class="col-md-2">Halaman</div>
                         <div class="col-md-8"><input type="text" class="form-control" name="penulis"></div>
                     </div>
                     <div class="row mb-3">
-                        <div class="col-md-2">Penerbit</div>
+                        <div class="col-md-2">Tanggal</div>
                         <div class="col-md-8"><input type="text" class="form-control" name="penerbit"></div>
-                    </div>
-                    <div class="row mb-3">
-                        <div class="col-md-2">Tahun Terbit</div>
-                        <div class="col-md-8"><input type="number" class="form-control" name="tahun_terbit"></div>
                     </div>
                     <div class="row mb-3">
                         <div class="col-md-2">Deskripsi</div>

@@ -26,14 +26,14 @@
                         <td><input class="form-control" type="text" name="id"></td>
                     </tr>
                     <tr>
-                        <td>Categories</td>
+                        <td>Nama</td>
                         <td>:</td>
                         <td>
                             <textarea name="category" rows="5" class="form-control"></textarea>
                         </td>
                     </tr>
                     <tr>
-                        <td>user_id</td>
+                        <td>Halaman</td>
                         <td>:</td>
                         <td><input class="form-control" type="number" step="0" name="user_id"></td>
                     </tr>

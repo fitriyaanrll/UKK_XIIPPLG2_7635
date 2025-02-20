@@ -1,7 +1,7 @@
 <?php
     $id = $_GET['id'];
         if(isset($_POST['submit'])) {
-        $kategori = $_POST['category']; 
+        $categories = $_POST['category']; 
        $query = mysqli_query($koneksi, "UPDATE categories set category='$categories' WHERE category=$id");
 
         if($query) {
